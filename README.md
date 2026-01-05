@@ -24,7 +24,7 @@
 
 ## About Me
 
-- Full-Stack + Mobile Developer (3+ years)
+- Full-Stack + Mobile Developer (4+ years)
 - React Native for cross-platform apps (iOS/Android)
 - Next.js / React.js for fast, SEO-friendly web apps
 - Node.js / Express APIs + MongoDB / PostgreSQL databases
