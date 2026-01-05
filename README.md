@@ -1,19 +1,13 @@
-<!-- ========================= -->
-<!--   RAJ ANGHAN | README     -->
-<!-- ========================= -->
+<!-- =============================== -->
+<!--   RAJ ANGHAN | GITHUB PROFILE   -->
+<!-- =============================== -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Raj+Anghan;Full-Stack+%26+Mobile+App+Developer;React+Native+%7C+Next.js+%7C+React.js+%7C+Node.js;Building+Scalable+Apps+for+Startups+%26+Businesses" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/RajAnghan?tab=followers">
-    <img src="https://img.shields.io/github/followers/RajAnghan?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/RajAnghan">
-    <img src="https://img.shields.io/github/stars/RajAnghan?label=Stars&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=RajAnghan&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RajAnghan21&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -22,19 +16,19 @@
 
 ---
 
-## About Me
+## ABOUT ME
 
-- Full-Stack + Mobile Developer (4+ years)
-- React Native for cross-platform apps (iOS/Android)
-- Next.js / React.js for fast, SEO-friendly web apps
-- Node.js / Express APIs + MongoDB / PostgreSQL databases
-- Clean code, scalable architecture, performance-focused builds
+- Full-Stack & Mobile App Developer with 3+ years of experience  
+- React Native for cross-platform iOS & Android apps  
+- React.js & Next.js for fast, SEO-friendly web applications  
+- Node.js / Express APIs with MongoDB & PostgreSQL  
+- Clean code, scalable architecture, performance-focused development  
 
 ---
 
-## Tech Stack
+## TECH STACK
 
-**Frontend**
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-0b1220?style=for-the-badge&logo=nextdotjs" />
@@ -43,14 +37,14 @@
   <img src="https://img.shields.io/badge/TypeScript-0b1220?style=for-the-badge&logo=typescript" />
 </p>
 
-**Backend**
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/Express.js-0b1220?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0b1220?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0b1220?style=for-the-badge" />
 </p>
 
-**Database & Tools**
+### Database & Tools
 <p>
   <img src="https://img.shields.io/badge/MongoDB-0b1220?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql" />
@@ -60,47 +54,20 @@
 
 ---
 
-## GitHub Stats
+## WHAT I BUILD
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RajAnghan&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=RajAnghan&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAnghan&layout=compact&theme=transparent&hide_border=true" />
-</p>
++ Mobile Applications (iOS & Android)  
++ Full-Stack Web Applications  
++ SaaS Platforms & MVPs  
++ REST APIs & Backend Systems  
++ Performance Optimization & Bug Fixing  
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajAnghan&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajAnghan&theme=flat&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RajAnghan/RajAnghan/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## Connect
+## CONNECT WITH ME
 
 <p>
-  <!-- Replace links with yours -->
+  <!-- Update links if needed -->
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin" />
   </a>
